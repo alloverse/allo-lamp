@@ -1,10 +1,10 @@
-# Alloverse app template
+# Alloverse Animated Lamp Example app
 
 This is an Alloverse app. You can 
 [read about Alloverse app](https://alloverse.com/develop-apps/)
 on Alloverse's website.
 
-__psst, you should summarize and explain your project here!__
+This app puts a spinning chandelier into your place. 
 
 ## Developing
 
